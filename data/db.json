@@ -1,0 +1,36 @@
+{
+    "products": [
+        {
+            "id" : 1001,
+            "name": "the guide to backend development",
+            "price":25,
+            "in_stock":false
+        },
+        {
+            "id" : 1002,
+            "name": "html and  css ",
+            "price":75,
+            "in_stock":false
+         },
+         {
+            "id" : 1003,
+            "name": "javascript",
+            "price":70,
+            "in_stock":true
+         },
+         {
+            "id" : 1004,
+            "name": "data structures ",
+            "price":95,
+            "in_stock":false
+         },
+         {
+            "id" : 1005,
+            "name": "python ",
+            "price":175,
+            "in_stock":true
+         }
+         
+],
+    "feat-products":[{},{}]
+}
